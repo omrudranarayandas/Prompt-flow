@@ -170,8 +170,3 @@ Telemetry collection is on by default.
 
 To opt out, please run `pf config set telemetry.enabled=false` to turn it off.
 
-## License
-
-Copyright (c) Microsoft Corporation. All rights reserved.
-
-Licensed under the [MIT](LICENSE) license.
